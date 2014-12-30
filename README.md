@@ -8,3 +8,4 @@ The convention of adding commit is to prefix them by the folowing keys :
 - test,
 - bugfix,
 - feature
+...
