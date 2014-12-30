@@ -17,3 +17,5 @@ Should we use TDD ?
 No PR revert for now, always fix issue in targeted branch.
 
 Revert PR block future PR of a branch ?
+
+add modification from Dev and pull it to the master
